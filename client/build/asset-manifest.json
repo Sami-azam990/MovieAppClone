@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d369654d.css",
+    "main.js": "/static/js/main.3f6de326.js",
+    "static/media/awais.jpg": "/static/media/awais.90b74b171ccece9668b9.jpg",
+    "static/media/farooq.jpg": "/static/media/farooq.09bd123a22b1aeddd33e.jpg",
+    "static/media/bg.jpg": "/static/media/bg.9f1d42305a78846a1149.jpg",
+    "static/media/zafar.jpg": "/static/media/zafar.76a3fc045b9d12ac20b0.jpg",
+    "static/media/logo.png": "/static/media/logo.f4070143e1f521da82a1.png",
+    "index.html": "/index.html",
+    "main.d369654d.css.map": "/static/css/main.d369654d.css.map",
+    "main.3f6de326.js.map": "/static/js/main.3f6de326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d369654d.css",
+    "static/js/main.3f6de326.js"
+  ]
+}
